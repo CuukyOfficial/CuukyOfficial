@@ -10,7 +10,7 @@ Ordered by skill level
 - PHP
 - SQL
 - HTML
-- JavaScript (+ Typescript)
+- JavaScript (+TypeScript)
 - C
 - Lua
 - Bash
