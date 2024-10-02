@@ -10,8 +10,10 @@ Ordered by skill level
 - PHP
 - SQL
 - HTML
+- Haskell
 - JavaScript (+TypeScript)
 - C
+- Prolog
 - Lua
 - Bash
 - Delphi
