@@ -21,7 +21,7 @@ Ordered by skill level
 - Bash
 - Delphi
 
-## 🕮 Projects
+## ⚙️ Projects
 Ordered by newest code 
 - [Trekko (Backend)](https://github.com/IfV-Trekko/trekko-backend) (2024)
 - [Packets](https://github.com/CuukyOfficial/packets) (2023)
