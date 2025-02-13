@@ -21,7 +21,9 @@ Ordered by skill level
 - Delphi
 
 ## Projects
+Ordered by newest code 
 - [Trekko (Backend)](https://github.com/IfV-Trekko/trekko-backend) (2024)
+- [Packets](https://github.com/CuukyOfficial/packets) (2023)
 - [VaroPlugin](https://github.com/CuukyOfficial/VaroPlugin) (2016-Today)
 - [CFW](https://github.com/CuukyOfficial/CFW) (2018-Today)
 
