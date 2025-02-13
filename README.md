@@ -20,6 +20,11 @@ Ordered by skill level
 - Bash
 - Delphi
 
+## Projects
+- [Trekko (Backend)](https://github.com/IfV-Trekko/trekko-backend) (2024)
+- [VaroPlugin](https://github.com/CuukyOfficial/VaroPlugin) (2016-Today)
+- [CFW](https://github.com/CuukyOfficial/CFW) (2018-Today)
+
 ## 📫 How to reach me
 - Discord: Cuuky
 - E-Mail: just.cookie.jc@gmail.com
