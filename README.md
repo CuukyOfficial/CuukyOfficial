@@ -1,4 +1,4 @@
-## Hi there, I'm Cuuky 👋
+## 👋 Hi there, I'm Cuuky 
 
 My former name is Mattis Kaiser and this is my GitHub profile. <br>
 On my profile you will find a lot of projects of mine. Over the last years, I have developed a veriety of applications, which today, I want to share with the world instead of them laying around on my computer. Unfortunately most of my applications are so incredibly outdated or are using deprecated/private API that there is no use in even publishing them here. But for my other projects: feel free to look through them, I hope you will find something useful!
@@ -21,7 +21,7 @@ Ordered by skill level
 - Bash
 - Delphi
 
-## Projects
+## 🕮 Projects
 Ordered by newest code 
 - [Trekko (Backend)](https://github.com/IfV-Trekko/trekko-backend) (2024)
 - [Packets](https://github.com/CuukyOfficial/packets) (2023)
