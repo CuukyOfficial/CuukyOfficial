@@ -13,6 +13,7 @@ Ordered by skill level
 - GO
 - SQL
 - HTML
+- CSS
 - Haskell
 - JavaScript (+TypeScript)
 - C
