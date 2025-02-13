@@ -6,8 +6,10 @@ My former name is Mattis Kaiser and this is my GitHub profile.
 Ordered by skill level
 
 - Java
+- Dart
 - Python
 - PHP
+- GO
 - SQL
 - HTML
 - Haskell
